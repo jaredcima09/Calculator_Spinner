@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculatorEZ</string>
+    <string-array name="spOps">
+        <item>+</item>
+        <item>-</item>
+        <item>/</item>
+        <item>*</item>
+    </string-array>
+</resources>
